@@ -1,6 +1,6 @@
 # Greg
 
- Readme containing and overview for all my repositories
+ Readme containing an overview for all my repositories
  
  # Anscombes Data
  
