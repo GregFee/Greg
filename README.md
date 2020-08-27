@@ -6,18 +6,18 @@
  
  
  
- # Project Iris
+ # [Project Iris](https://github.com/GregFee/Project)
  
  
  
- # Boxplots
+ # [Boxplots](https://github.com/GregFee/boxplots)
  
  
- # Machine Learning
+ # [Machine Learning](https://github.com/GregFee/machinelearning_assessment)
  
  
  
  
- # Numpy Simulation
+ # [Numpy Simulation](https://github.com/GregFee/Program-Numpy)
  
  
