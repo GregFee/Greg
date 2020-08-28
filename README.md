@@ -2,11 +2,11 @@
 
  Readme containing an overview for my current repositories. These repositories are academic assignment work.
  
- # [Anscombes Data](https://github.com/GregFee/Anscombes-Data)
+ # [Anscombe's Data](https://github.com/GregFee/Anscombes-Data)
  
 This repository explores the Anscombe's quartet data sets that all have nearly identical descriptive statistics. When graphed these data sets appear differently and hence show the importanace of visually representing data.
  
- # [Project Iris](https://github.com/GregFee/Project)
+ # [Iris](https://github.com/GregFee/Project)
  
 This repository investigates Fisher's Iris data set. The data set consists of 150 records. The data measures 5 atrributes specie, sepal length and width and petal length and  width. The data set is often used as a test case for statistical designation.
  
