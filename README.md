@@ -1,4 +1,4 @@
-# Greg's Repositories
+# Greg's Repositorie's
 
  Readme containing an overview for my current repositories. These repositories are academic assignment work.
  
