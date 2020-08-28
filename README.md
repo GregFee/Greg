@@ -19,7 +19,11 @@ This repsository examines the use of boxplots in descriptive statistics. Boxplot
 The repository explores the Boston Housing Data Set. The data set consists of 13 variables concerning housing in the Boston Metropolitan area. There is also a linear regression model produced using two of the variables.
  
   
- # [Numpy Simulation](https://github.com/GregFee/Program-Numpy)
+ # [Numpy Package](https://github.com/GregFee/Program-Numpy)
+ 
+ This repository probes the numpy random package and its uses. Numpy random generates random numbers that can be used for data exploration and representation. 
+ 
+ # [Numpy Simulation](https://github.com/GregFee/numpy-simulation)
  
 This repository explores the use of the numpy package in relation to mimicking a real world phenomenon. The effect of education level on salary was used as a base for the assignment.
  
